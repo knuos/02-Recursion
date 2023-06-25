@@ -1,11 +1,9 @@
 #include <stdio.h>
+#include <math.h>
 
 int main() 
 { 
-	int *a;
-	int *b;
-	
-	// Write source code below 
+	// Write the source code below 
 
 
 	return 0; 
