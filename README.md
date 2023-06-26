@@ -7,7 +7,7 @@
   * A power of two can be calculated using "pow(a, b)" -> a^b in the header file, math.h 
   
 - Execution example
-  * [Output] two[0] = 1
-             two[1] = 2
-             two[2] = 4
+  * [Output] two[0] = 1\n
+             two[1] = 2\n
+             two[2] = 4\n
              two[3] = 8 .....
